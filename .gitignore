@@ -2,6 +2,7 @@
 *.class
 *.slnx
 *.vs
+*.csproj
 
 # Log file
 *.log
@@ -71,3 +72,7 @@ target/
 
 # Windows
 Thumbs.db
+
+bin/
+obj/
+
