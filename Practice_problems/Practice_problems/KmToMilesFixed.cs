@@ -6,7 +6,7 @@ namespace Practice_problems
         public KmToMilesFixed()
         {
             double km = 10.8;
-            double miles = km * 1.6; // per provided hint
+            double miles = km * 1.6; 
             Console.WriteLine($"The distance {km} km in miles is {miles}");
         }
     }
