@@ -1,4 +1,4 @@
-﻿# 🌉 BridgeLabz fallowship Training programm  
+﻿# 🌉 BridgeLabz fellowship Training programm  
 
 Welcome to the official repository for my **BridgeLabz C# Training**. This repository documents my week-wise learning journey in .net, including Core C#, OOPs, DSA, and practical workshops.
 
