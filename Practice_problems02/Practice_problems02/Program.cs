@@ -1,5 +1,7 @@
 ﻿
 
-RemainderAndQuat rem = new RemainderAndQuat();
+//RemainderAndQuat rem = new RemainderAndQuat();
+
+IntOperation intOperation = new IntOperation();
 
 Console.ReadKey();

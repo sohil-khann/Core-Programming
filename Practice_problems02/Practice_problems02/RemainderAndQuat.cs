@@ -15,5 +15,6 @@ public
         Console.WriteLine($"Divisor: {divisor}");
         Console.WriteLine($"Quotient: {quotient}");
         Console.WriteLine($"Remainder: {remainder}");
+
     }
 }   
