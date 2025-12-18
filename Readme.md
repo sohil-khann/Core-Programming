@@ -11,7 +11,7 @@ Welcome to the official repository for my **BridgeLabz C# Training**. This repos
 This repository is organized by branches, each representing a week of focused learning.
 | Branch Name                  | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| `CoreJava`           | Covers basic C#,Syntax, control structures, arrays, strings, and I/O.     |
+| `CoreCsharp`           | Covers basic C#,Syntax, control structures, arrays, strings, and I/O.     |
 | `OOPS`                | Focuses on object-oriented programming concepts like classes, inheritance.  |
 | `DSA`                 | Implementation of basic data structures (Stack, Queue, LinkedList, etc).    |
 | `Workshop`            | Workshop projects combining C# concepts in real-world scenarios.          |
