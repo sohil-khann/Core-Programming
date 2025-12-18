@@ -60,8 +60,7 @@ public class Program
 
         // CourseDiscountFixed pen2 = new CourseDiscountFixed();
 
-        EarthVolume e = new EarthVolume();
-
+        // EarthVolume e = new EarthVolume();
 
 
     }
