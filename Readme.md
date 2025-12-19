@@ -22,10 +22,11 @@ CoreProgramming/
 ---
 ## Branch Structure
 CoreProgramming/
-├── arthmatic-operation         
+├── arthmatic-operations         
 ├── control-flows          
 ├── main          
 ├── arrays
+├── practice-problems
 
 ##  structure of control-flows/
 CoreProgramming/
