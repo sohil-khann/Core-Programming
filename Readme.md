@@ -28,13 +28,14 @@ CoreProgramming/
 ├── arrays
 ├── practice-problems
 ```
+```
 ##  structure of control-flows/
 CoreProgramming/
 ├── Level_01/          # Fundamental Programming Concepts
 ├── Level_02/          # Intermediate Problem Solving  
 ├── Level_03/          # Advanced Algorithms & Mathematical Concepts
 └── .gitignore         # Git ignore configuration
-
+```
 ##  Technology Stack
 
 - **C# 12** - Modern .NET with latest language features
@@ -208,3 +209,4 @@ This is a personal learning repository documenting progress through BridgeLabz t
 *Last Updated: December 2025*  
 
 Author: Sohil khan
+
