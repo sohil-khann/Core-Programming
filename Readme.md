@@ -26,6 +26,7 @@ CoreProgramming/
 ├── control-flows          
 ├── main          
 ├── arrays
+├── strings
 ├── practice-problems
 
 ##  structure of control-flows/
@@ -33,6 +34,12 @@ CoreProgramming/
 ├── Level_01/          # Fundamental Programming Concepts
 ├── Level_02/          # Intermediate Problem Solving  
 ├── Level_03/          # Advanced Algorithms & Mathematical Concepts
+└── .gitignore         # Git ignore configuration
+
+##  structure of arrays/
+CoreProgramming/
+├── Level_01/          # Fundamental Programming Concepts
+├── Level_02/          # Intermediate Problem Solving  
 └── .gitignore         # Git ignore configuration
 
 ##  Technology Stack
