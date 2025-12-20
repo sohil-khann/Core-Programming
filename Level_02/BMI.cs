@@ -23,9 +23,9 @@ internal static class BMI
         string[] statuses = new string[n];
         for (int i = 0; i < n; i++)
         {
-            Console.WriteLine($"Enter weight (in kg) of person {i + 1}:");
+            Console.WriteLine($"Enter weight of person {i + 1}:");
             weights[i] = double.Parse(Console.ReadLine());
-            Console.WriteLine($"Enter height (in meters) of person {i + 1}:");
+            Console.WriteLine($"Enter height  of person {i + 1}:");
             heights[i] = double.Parse(Console.ReadLine());
             bmis[i] = weights[i] / (heights[i] * heights[i]);
             if (bmis[i] < 18.5)
