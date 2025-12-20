@@ -19,7 +19,7 @@ CoreProgramming/
 └── .gitignore         # Git ignore configuration
 ```
 
----
+```
 ## Branch Structure
 CoreProgramming/
 ├── arthmatic-operations         
@@ -28,13 +28,15 @@ CoreProgramming/
 ├── arrays
 ├── strings
 ├── practice-problems
-
+```
+```
 ##  structure of control-flows/
 CoreProgramming/
 ├── Level_01/          # Fundamental Programming Concepts
 ├── Level_02/          # Intermediate Problem Solving  
 ├── Level_03/          # Advanced Algorithms & Mathematical Concepts
 └── .gitignore         # Git ignore configuration
+<<<<<<< HEAD
 
 ##  structure of arrays/
 CoreProgramming/
@@ -42,6 +44,9 @@ CoreProgramming/
 ├── Level_02/          # Intermediate Problem Solving  
 └── .gitignore         # Git ignore configuration
 
+=======
+```
+>>>>>>> 8630f181c6e74821e65f612b0db7d5ba46cefddd
 ##  Technology Stack
 
 - **C# 12** - Modern .NET with latest language features
@@ -213,4 +218,6 @@ This is a personal learning repository documenting progress through BridgeLabz t
 ---
 
 *Last Updated: December 2025*  
+
 Author: Sohil khan
+
