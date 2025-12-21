@@ -15,6 +15,7 @@ public class SpecificCharacterRemover
         string result = "";
         foreach (char c in input)
         {
+
             if (c != charToRemove)
             {
                 result += c;

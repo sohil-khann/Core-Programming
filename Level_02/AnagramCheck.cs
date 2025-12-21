@@ -7,7 +7,7 @@
 
 public class AnagramChecker
 {
-    public static bool AreAnagrams(string str1, string str2)
+    public static bool AreAnagrams(string str1, string s   tr2)
     {
         string s1 = "";
         string s2 = "";
