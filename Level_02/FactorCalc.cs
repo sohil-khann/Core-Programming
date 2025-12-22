@@ -62,7 +62,7 @@ public static class FactorCalc
         int sqr = 0;
         foreach (int factor in factors)
         {
-            sqr+=(int)Math.Pow(factor,2);
+            sqr += factor * factor;
         }
         Console.WriteLine($"Sum of squares of factors is :{sqr}");
         return;

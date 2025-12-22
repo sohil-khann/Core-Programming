@@ -13,7 +13,6 @@ namespace Level_02
     {
         public static void runMethod()
         {
-            Console.WriteLine("Enter coefficients for quadratic equation (ax^2 + bx + c = 0):");
             
             Console.Write("Enter a: ");
             double a = Convert.ToDouble(Console.ReadLine());

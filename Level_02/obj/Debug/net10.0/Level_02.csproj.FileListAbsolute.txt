@@ -1,0 +1,15 @@
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.AssemblyInfoInputs.cache
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.AssemblyInfo.cs
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.csproj.CoreCompileInputs.cache
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.sourcelink.json
+D:\Acess meditech\CoreProgramming\Level_02\bin\Debug\net10.0\Level_02.exe
+D:\Acess meditech\CoreProgramming\Level_02\bin\Debug\net10.0\Level_02.deps.json
+D:\Acess meditech\CoreProgramming\Level_02\bin\Debug\net10.0\Level_02.runtimeconfig.json
+D:\Acess meditech\CoreProgramming\Level_02\bin\Debug\net10.0\Level_02.dll
+D:\Acess meditech\CoreProgramming\Level_02\bin\Debug\net10.0\Level_02.pdb
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.dll
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\refint\Level_02.dll
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.pdb
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\Level_02.genruntimeconfig.cache
+D:\Acess meditech\CoreProgramming\Level_02\obj\Debug\net10.0\ref\Level_02.dll
