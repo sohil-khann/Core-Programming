@@ -7,8 +7,11 @@ Console.WriteLine("Hello, World!");
 //NumberChecker02.Main();
 //NumberChecker03.Main();
 //NumberChecker04.Main();
-DisplayCalender.Main();
+//DisplayCalender.Main();
 //OTP.Main();
+//DistanceBetweenTwoPoints.Main();
+//CheckCollinear.Main();
+FindBonus.Main();
 
 
 
