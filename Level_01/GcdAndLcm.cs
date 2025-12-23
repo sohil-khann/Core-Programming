@@ -1,0 +1,7 @@
+/*7. GCD and LCM Calculator:
+Create a program that calculates the Greatest Common Divisor (GCD) and Least Common
+Multiple (LCM) of two numbers using functions.
+Use separate functions for GCD and LCM calculations, showcasing how modular code
+works.*/using System;internal static class GcdAndLcm{    //for calculating GCD using Euclidean algorithm    private static int CalculateGCD(int a, int b)    {        while (b != 0)        {            int temp = b;            b = a % b;            a = temp;        }        return a;    }    //for calculating LCM    private static int CalculateLCM(int a, int b)    {        return (a / CalculateGCD(a, b)) * b;    }    //entry point    public static void Main()    {        Console.WriteLine("GCD and LCM Calculator");        Console.Write("Enter first number: ");        int num1 = int.Parse(Console.ReadLine());        Console.Write("Enter second number: ");        int num2 = int.Parse(Console.ReadLine());
+        //method calls
+        int gcd = CalculateGCD(num1, num2);        int lcm = CalculateLCM(num1, num2);        Console.WriteLine($"The Greatest Common Divisor (GCD) of {num1} and {num2} is: {gcd}");        Console.WriteLine($"The Least Common Multiple (LCM) of {num1} and {num2} is: {lcm}");    }}
